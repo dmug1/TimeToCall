@@ -1,0 +1,35 @@
+.search-place{
+    background-color: #e45; 
+    min-height: 10em;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.cards-place{
+    background-color:white;
+    display: block;
+    text-align: center;
+}
+
+.card-holder{
+    color: blueviolet;
+    display: inline-block;
+    padding: 2em;
+    border-style: dotted;
+    margin: 0 2em 0 2em;
+}
+
+.footer{
+    background-color: yellowgreen;
+}
+
+.search-text{
+    border-radius: 5em;
+    border-style: none;
+}
+
+#mySearch{
+    height: 3em;
+}
