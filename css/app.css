@@ -1,6 +1,6 @@
 .search-place{
     background-color: #e45; 
-    min-height: 10em;
+    min-height: 10%;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -27,9 +27,8 @@
 
 .search-text{
     border-radius: 5em;
-    border-style: none;
 }
 
 #mySearch{
-    height: 3em;
+    height: 10%;
 }
