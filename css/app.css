@@ -11,6 +11,8 @@
     background-color:white;
     display: block;
     text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
 .card-holder{
@@ -19,6 +21,7 @@
     padding: 2em;
     border-style: dotted;
     margin: 0 2em 0 2em;
+    min-height: 15em;
 }
 
 .footer{
@@ -31,4 +34,9 @@
 
 #mySearch{
     height: 10%;
+}
+
+.plus-img{
+    display: block;
+    padding-top: 1em;
 }
